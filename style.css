@@ -1,0 +1,23 @@
+h1 {
+  font-size: 80px;
+  text-align: center;
+  color: tomato;
+}
+
+span {
+  color: royalblue;
+}
+
+footer {
+  font-family: 'Lato', sans-serif;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Slab', serif;
+  font-size: 15px;
+  text-align: center;
+}
+
+#audio {
+  display: flex;
+  justify-content: center;
+}
